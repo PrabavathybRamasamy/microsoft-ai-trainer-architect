@@ -1,6 +1,8 @@
 # 🚀 Hiring: Trainer Cum Architect (AI & Automation)
 
-We are looking for an experienced Architect who can design, build, and guide enterprise-level AI and automation solutions.
+Looking for an Architect with expertise in Microsoft Copilot, Power Platform, and Microsoft Azure AI.
+
+If you enjoy training others on the skills you’ve mastered, this could be the right opportunity for you. Experience in Agentic AI is a strong advantage.
 
 ## 🧠 What You’ll Do
 - Design and deliver enterprise AI solutions  
